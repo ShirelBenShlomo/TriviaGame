@@ -6,7 +6,6 @@ A full-stack trivia game built using C++, C#, Python and SQL, allowing players t
 * learned how to implement AES (Advanced Encryption Standard) for data encryption and RSA (Rivest-Shamir-Adleman) for secure key exchange, ensuring secure communication between the server and clients.
 
   # Screenshots
-  ## Here are some snapshots from the game:
   ### Log In:
   ![LogIn](https://github.com/user-attachments/assets/11b8dbc4-ce14-4870-bf8f-29762b316825)
   
